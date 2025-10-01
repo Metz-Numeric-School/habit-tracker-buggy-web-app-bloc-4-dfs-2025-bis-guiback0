@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0] - 2025-10-01
+
+### 📚 Documentation
+
+- Update Deploy.md
+
 ## [0.1.0] - 2025-10-01
 
 ### 🐛 Bug Fixes
