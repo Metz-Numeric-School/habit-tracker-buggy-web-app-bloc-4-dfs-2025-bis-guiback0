@@ -1,5 +1,5 @@
-
 <!DOCTYPE html>
+nkqdn
 <html lang="en">
     <head>
         <title><?= $title ?? 'Page sans titre' ?> | MNS Buggy App</title>
