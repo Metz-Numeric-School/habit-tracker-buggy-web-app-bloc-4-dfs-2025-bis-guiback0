@@ -52,9 +52,9 @@
         "action": "new"
     },
     {
-        "path": "/api/habits",
+        "path": "/api/habits/toggle/:id",
         "controller": "App\\Controller\\Api\\HabitsController",
-        "action": "index"
+        "action": "toggle"
     },
     {
         "path": "/api/habits",
